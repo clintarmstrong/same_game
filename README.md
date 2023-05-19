@@ -1,4 +1,4 @@
-I have written hundreds of applets for Google Workspace over the years but this is the first time that I have ever written a game!
+I have written hundreds of applets for Google Workspace over the years but this is the first time that I have ever written a game that lives in a Google Sheet!
 
 This game is a clone of a game called SAME GAME that I played as a kid. The object of the game is to score as many points as possible by grouping and eliminating large chains of blocks.
 
